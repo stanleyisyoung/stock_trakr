@@ -1,28 +1,15 @@
-== README
+== READ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails web application that tracks your personal stock portfolio and allows you to add friends.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails 4.2.4
+Styled with Bootstrap 3.
+Login with the Devise gem.
+Stock information is provided by Yahoo.
+Postgres utilized for production database.
+Ready to be run on Heroku.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+Built during the Summer of 2016 while learning Ruby on Rails.
