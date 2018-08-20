@@ -17,4 +17,4 @@ Ready to be run on Heroku.
 
 
 
-Built during the Summer of 2016 while learning Ruby on Rails.
+Built in 2016.
